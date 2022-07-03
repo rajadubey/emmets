@@ -1,0 +1,16 @@
+{
+    "html": {
+
+    },
+    "scss": {
+
+    },
+    "javascript": {
+
+    },
+    "javascriptreact": {
+        "impnav": "import Navigation from '@navigation'",
+        "imput": "import { } from '@utils'",
+        "impclt": "import ClevertapAnalytics from '@clevertapAnalytics'"
+    }
+}
